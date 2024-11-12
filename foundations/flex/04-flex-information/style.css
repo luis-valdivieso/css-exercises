@@ -1,5 +1,6 @@
 body {
   font-family: 'Courier New', Courier, monospace;
+  text-align: center;
 }
 
 img {
@@ -24,3 +25,16 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+.image-group{
+  margin-top: 32px;
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.single-image{
+  max-width: 200px;
+}
+
+
